@@ -2,7 +2,7 @@
 
 In these seiries of jupyter notebooks combine both python coding and statistical concepts applied into analyzing financial data, such as stock data.
 
-Topics we tacle using python:
+Topics we tackle using python:
 
 - Import, pre-process, save and visualize financial data into pandas Dataframe.
 
